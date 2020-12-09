@@ -183,7 +183,7 @@ for (var i = 0; i < x.length; i++) {
 }
 // Event listener to save to local stroage
 $(".saveBtn").click(function () {
-    event.preventDefault();
+    preventDefault();
     var formValue = $(this).siblings(".form-control").val();
     console.log("This worked");
     var listItem = $(this).parent().data("hour");

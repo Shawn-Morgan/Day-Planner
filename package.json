@@ -1,0 +1,24 @@
+{
+  "name": "DayPlanner",
+  "version": "1.0.0",
+  "description": "Schedule your day ## Shawn Morgan Day Planner",
+  "main": "script.js",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shawn-Morgan/Day-Planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shawn-Morgan/Day-Planner.git/issues"
+  },
+  "homepage": "https://github.com/Shawn-Morgan/Day-Planner.git"
+}

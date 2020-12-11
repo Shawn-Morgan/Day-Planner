@@ -2,10 +2,8 @@
 Schedule your day
 ## Shawn Morgan Day Planner
 
-* ['Day-Planner GitHub']()
-* ['Day-Planner GitHub IO']()
-
-![Day-Planner Demo]()
+* ['Day-Planner GitHub'](https://github.com/Shawn-Morgan/Day-Planner)
+* ['Day-Planner GitHub IO'](https://shawn-morgan.github.io/Day-Planner/)
 
 ### Summary
 * HTML and CSS and Javascript documents create a day planner with an eight-hour work day
